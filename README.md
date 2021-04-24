@@ -1,4 +1,2 @@
-For my system I'm using arch and dwm.
-For my editor I use [nvim](https://github.com/nireo/nvim).
-
-Currently using go primarily, but also using typescript, rust and c. I'm working on public and private projects. The private projects will be published when I'm ready with them.
+Currently using [arch](https://archlinux.org/), [dwm](https://dwm.suckless.org/) and [emacs](https://github.com/nireo/.emacs.d).
+For languages I use Go primarily, but also like Typescript and C/C++. I'm working on public and private projects. The private projects will be published when I'm ready with them.
