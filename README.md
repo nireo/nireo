@@ -1,5 +1,5 @@
-# nireo
-
-- Work as a back-end Go developer
+- Work professionally as a back-end Go developer
 - Personal projects focus on distributed systems and systems programming
 - I like working on my own programming languages and building compilers for existing languages
+- Currently using a split ergonomic keyboard with 36 keys with my custom [layout](https://github.com/nireo/layout)
+- Using neovim; my [config](https://github.com/nireo/nvimconf)
